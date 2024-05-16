@@ -50,3 +50,6 @@ rsconnect/
 
 # garbage mac file
 .DS_Store
+
+# RStudio files
+.Rproj.user/
