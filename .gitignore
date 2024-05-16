@@ -54,3 +54,6 @@ rsconnect/
 # RStudio files
 .Rproj.user/
 global_right.Rproj
+
+# onedrive files
+onedrive/
